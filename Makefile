@@ -15,5 +15,5 @@ $(SO): cairo_wrap.c
 	./gen_pkgIndex.tcl
 
 cairo_wrap.c: cairo.i
-	swig -tcl -namespace -pkgversion 0.1 $<
+	swig -tcl -namespace -pkgversion 0.2 $<
 

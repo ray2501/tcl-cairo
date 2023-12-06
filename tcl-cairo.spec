@@ -12,7 +12,7 @@ BuildRequires:  swig
 BuildRequires:  tcl
 BuildRequires:  tcl-devel >= 8.4
 BuildRequires:  cairo-devel
-Version:        0.1
+Version:        0.2
 Release:        0
 Summary:        Tcl bindings for Cairo library
 License:        MIT
